@@ -1,0 +1,16 @@
+﻿Facility_Id,Grocery_store,Bank,Subway_station,Bus_Stop,Hospital,Gym_facility
+100,Trader Joe's<3miles,Chase< 2mile,Red_Line<2miles,<1.5miles,<4miles,Not Available
+101,Whole Food<1mile,Santander<2 mile,Orange-Line<1miles,<1.5miles,<5miles,Available
+102,Walgreens<3miles,Chase< 2mile,Red_Line<2miles,<3miles,<3miles,Not Available
+103,Stop-n-shop<1mile,Bofa< 1 mile,Orange-Line<1mile,<1miles,<4miles,Available
+104,Walmart<1mile,Bofa< 1 mile,Red_Line<2miles,<1miles,<6miles,Not Available
+105,Indian Store<2miles,Chase< 2mile,Orange-Line<1miles,<2miles,<1.5miles,Available
+106,Whole Food<1mile,Bofa< 1 mile,Orange-Line<1miles,<2miles,<2miles,Not Available
+107,Trader Joe's<1mile,Bofa< 1 mile,Orange-Line<1mile,<2miles,<1miles,Available
+108,Whole Food<1mile,Chase< 2mile,CommuterRail<3miles,<2miles,<4miles,Available
+109,Trader Joe's<3miles,Bofa< 1 mile,Red_Line<2miles,<3miles,<6miles,Not Available
+110,Trader Joe's<3miles,Santander<2 mile,Orange-Line<1miles,<2miles,<1.5miles,Not Available
+111,Walgreens<3miles,Santander<2 mile,T-Line<1miles,<1.5miles,<3miles,Available
+112,Trader Joe's<3miles,Santander<2 mile,CommuterRail<3miles,<3miles,<6miles,Available
+113,Indian Store<2miles,Santander<2 mile,CommuterRail<3miles,<1.5miles,<1.5miles,Available
+114,American Store<2miles,Bofa< 1 mile,T-Line<1miles,<1miles,<1miles,Available
